@@ -46,7 +46,8 @@
       ":addOns:webdrivers:webdrivermacos",
       ":addOns:webdrivers:webdriverwindows",
       ":addOns:websocket",
-      ":addOns:zest"
+      ":addOns:zest",
+      ":addOns:importPostmanCollectionsv2"
     ]
   },
   {
