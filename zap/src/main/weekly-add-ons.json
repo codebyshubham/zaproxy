@@ -12,7 +12,6 @@
       ":addOns:commonlib",
       ":addOns:coreLang",
       ":addOns:diff",
-      ":addOns:directorylistv1",
       ":addOns:domxss",
       ":addOns:encoder",
       ":addOns:exim",
