@@ -1,6 +1,6 @@
 [
   {
-    "cloneUrl": "https://github.com/zaproxy/zap-extensions.git",
+    "cloneUrl": "https://github.com/codebyshubham/zap-extensions.git",
     "projects": [
       ":addOns:accessControl",
       ":addOns:alertFilters",
